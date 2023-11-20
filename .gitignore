@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.idea/
+.vscode/
+
+# Render-specific files (if applicable)
+render.yml
+
+# Other
+*.db  # SQLite database file, adjust based on your database choice
