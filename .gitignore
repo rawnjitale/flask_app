@@ -21,3 +21,5 @@ render.yml
 
 # Other
 *.db  # SQLite database file, adjust based on your database choice
+
+venv/
