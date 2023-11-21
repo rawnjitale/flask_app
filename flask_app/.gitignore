@@ -15,6 +15,7 @@ __pycache__/
 # IDE files
 .idea/
 .vscode/
+__pycache__/
 
 # Render-specific files (if applicable)
 render.yml
